@@ -565,8 +565,4 @@ def menu():
             input("\nPress Enter to continue...")
 
 if __name__ == "__main__":
-    print("Linux Version")
-    try:
-        menu()
-    except KeyboardInterrupt:
-        print("\nBye.")
+    print("Kalhspera")
